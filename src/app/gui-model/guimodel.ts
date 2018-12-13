@@ -180,7 +180,7 @@ export class GuiModel {
 							"name": "Ok"
 						}
 					]
-				}
+				},
 				{
 					"id": "ActivityForm",
 					"title": "Activity",
@@ -335,7 +335,7 @@ export class GuiModel {
 							"form": {
 								"form": "GroupForm"
 							}
-						}
+						},
 						{
 							"type": "list",
 							"icon": "fa-weixin",
@@ -362,7 +362,7 @@ export class GuiModel {
 							"form": {
 								"form": "ActivityForm"
 							}
-						}
+						},
 						{
 							"type": "list",
 							"icon": "fa-futbol-o",
