@@ -1,7 +1,7 @@
 export class GuiModel {
 
     /* HINWEIS: Texte sind in der Datei ../example-translation-service.ts definiert.
-    Erscheinen Texte in {}, so kann die Übersetzung in example-translation-service.ts definiert werden
+    Erscheinen Texte in {}, so kann die Ăbersetzung in example-translation-service.ts definiert werden
     */
 
     private _guiModel = {
@@ -180,7 +180,7 @@ export class GuiModel {
 							"name": "Ok"
 						}
 					]
-				}
+				},
 				{
 					"id": "ActivityForm",
 					"title": "Activity",
@@ -335,7 +335,7 @@ export class GuiModel {
 							"form": {
 								"form": "GroupForm"
 							}
-						}
+						},
 						{
 							"type": "list",
 							"icon": "fa-weixin",
@@ -362,7 +362,7 @@ export class GuiModel {
 							"form": {
 								"form": "ActivityForm"
 							}
-						}
+						},
 						{
 							"type": "list",
 							"icon": "fa-futbol-o",
